@@ -15,7 +15,7 @@ const Chef = () => (
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">we hold steadfast to our core values, shaping the foundation of everything we do..</p>
+          <p className="p__opensans">we hold steadfast to our core values, shaping the foundation of everything we do.</p>
         </div>
         <p className="p__opensans">  Hospitality is at the heart of what we do. We believe in creating a warm and inviting atmosphere where every guest feels like a part of our extended family. Your satisfaction is our priority, and we strive to exceed your expectations with every visit. </p>
       </div>
